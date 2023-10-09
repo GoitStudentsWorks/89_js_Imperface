@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/cocktail-search/",
+    "build": "vite build --base=/89_js_Imperface/",
     "preview": "vite preview"
   },
   "devDependencies": {
